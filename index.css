@@ -16,6 +16,7 @@
     background-size: cover;
     background-position: center;
     display: flex;
+    /* this change is by gaurav */
     background-repeat: no-repeat;
     justify-content: flex-start;
     align-items: center;
